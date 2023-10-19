@@ -1,6 +1,3 @@
-# To add and improve functionalities
-# To change if statements with switch case
-
 import time
 
 # Function - read soil moisture data from the sensor
